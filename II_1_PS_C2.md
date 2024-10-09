@@ -1,5 +1,5 @@
 #### Exemplu
-La inceputul unui joc de able, care este probabilitatea sa formam o 'poarta in casa'? Dar daca primul zar cade 6, se modifica probabilitatea?
+La inceputul unui joc de table, care este probabilitatea sa formam o 'poarta in casa'? Dar daca primul zar cade 6, se modifica probabilitatea?
 $\Omega = \{1, 2, 3,...,6\} \times \{1, 2, 3,...,6\} = \{(i, j)|i, j = \overline{1,6}\}$
 
 $\mathcal{F} = \mathcal{P}(\Omega), \mathbb{P}((i,j)) = \frac{1}{36}, \forall i, j = \overline{1,6}$
