@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "26f81f894eee98e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1767cb2e400b7a3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c0ae1948e0e2706",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ded14b5c74b34548",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a93d5a41d1bd1c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f73019c9ad7e83fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bb1b46394c8092a7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2453d75b998ec25d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "0b973c5b4f4b984e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b499d8f07c504e1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18649919fa2bf496",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f6e80869aa85f29b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e4627d86d18a062c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8a6211541bdc3e1d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "7b9af9d0d2a6a882",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "7c0ae1948e0e2706",
+  "lastOpenFiles": [
+    "University Courses/Yr 2/Sem 1/PS/II_1_PS_C3.md",
+    "University Courses/Yr 2/Sem 1/PS/II_1_PS_C2.md",
+    "University Courses/Yr 2/Sem 1/PS/II_1_PS_C1.md",
+    "University Courses/Yr 2/Sem 1/SO/II_1_SO_C1.md",
+    "University Courses/Yr 2/Sem 1/PDG/II_1_PDG_C2.md",
+    "University Courses/Yr 2/Sem 1/AF/II_1_AF_C1.md",
+    "University Courses/Yr 2/Sem 1/PS/II_1_PS_L2.md",
+    "University Courses/Yr 2/Sem 1/AF/II_1_AF_C3.md",
+    "I have no mouth and I must=scream.md",
+    "University Courses/Yr 2/Sem 1/AF/II_1_AF_C2.md",
+    "University Courses/Yr 2/Sem 1/SGBD/II_1_SGBD_C2.md",
+    "University Courses/Yr 2/Sem 1/PF/II_1_PF_C2.md",
+    "University Courses/Yr 2/Sem 1/AF/II_1_AF_S1 - Grafuri.md",
+    "University Courses/Yr 2/Sem 1/SO/II_1_SO_L1.md",
+    "University Courses/Yr 2/Sem 1/PF",
+    "University Courses/Yr 2/Sem 1",
+    "University Courses/Yr 2/Sem 1/PDG",
+    "University Courses/Yr 2/Sem 1/SO",
+    "University Courses/Yr 2/Sem 1/SGBD",
+    "University Courses/Yr 2/Sem 1/PS",
+    "University Courses/Yr 2/Sem 1/AF",
+    "University Courses/Yr 2",
+    "University Courses",
+    "README.md",
+    "new note.md",
+    "2024-10-03.md",
+    "Untitled.canvas",
+    "II_1_PS_C1 - Statistică și probabilitate.md"
+  ]
+}

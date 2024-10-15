@@ -15,7 +15,7 @@ $\mathbb{P}(A|B)=\frac{\mathbb{P}(A\cap B)}{\mathbb{P}(B)}\Leftrightarrow\mathbb
 
 #### Definitie (Independenta)
 Numim $A$ si $B$ independente daca $\mathbb{P}(A|B)=\mathbb{P}(A)\Leftrightarrow\mathbb{P}(A\cap B)=\mathbb{P}(A)\cdot\mathbb{P}(B)$.
-Notatite $A\amalg B$
+$\newcommand{\indep}{\perp \!\!\! \perp}$Notatite $A\indep B$
 
 #### Exemple
 i) Ce secvente de aruncari de monede este mai probabila?
@@ -39,17 +39,17 @@ $C=\{(i,j)|i=\overline{1,6},j\in\{2,4,6\}\}$
 $\mathbb{P}(C)=\frac{1}{2}$
 
 $\mathbb{P}(A\cap B)=\frac{1}{18}$
-$A\amalg B, B\amalg C, A\amalg C$
+$A\indep B, B\indep C, A\indep C$
 
 #### Proprietati
 Fie $(\Omega,\mathcal{F},\mathbb{P})$.
-i) $A\amalg\emptyset$ si $A\amalg\Omega,\forall A\in\mathcal{F}$
-ii) $A\amalg A\Leftrightarrow\mathbb{P}(A)\in\{0,1\}$
-iii) Daca $A\amalg B$, $\mathbb{P}(A\cap B)=0\Leftrightarrow\mathbb{P}(A)=0$ sau $\mathbb{P}(B)=0$
+i) $A\indep\emptyset$ si $A\indep\Omega,\forall A\in\mathcal{F}$
+ii) $A\indep A\Leftrightarrow\mathbb{P}(A)\in\{0,1\}$
+iii) Daca $A\indep B$, $\mathbb{P}(A\cap B)=0\Leftrightarrow\mathbb{P}(A)=0$ sau $\mathbb{P}(B)=0$
 
 #### Demonstratie
 i) $\mathbb{P}(A\cap\emptyset)=\mathbb{P}(\emptyset)=0$
-$\mathbb{P}(A)\cdot\mathbb{P}(\emptyset)=0\Rightarrow A\amalg\emptyset$
+$\mathbb{P}(A)\cdot\mathbb{P}(\emptyset)=0\Rightarrow A\indep\emptyset$
 SAU
 $\mathbb{P}(\emptyset|A)=\frac{\mathbb{P}(\emptyset|A)}{\mathbb{P}(A)}=0$
 
